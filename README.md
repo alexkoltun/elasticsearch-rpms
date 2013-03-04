@@ -1,4 +1,0 @@
-elasticsearch-rpms
-==================
-
-elasticsearch-rpms
